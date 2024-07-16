@@ -15,7 +15,7 @@ Este projeto demonstra como implementar um sistema simples de upload de arquivos
 ## Instalação
 
 1. Clone o repositório:
-git clone https://github.com/seu-usuario/seu-repositorio.git
+git clone 
 
 csharp
 Copiar código
